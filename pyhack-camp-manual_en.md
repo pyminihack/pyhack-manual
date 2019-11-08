@@ -2,7 +2,7 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 
 # Overview
 
-- Instructions for Pyhack camp we hold twice in a year
+- Instructions for Pyhack camp we hold twice a year
 - We usually have the pension all to ourselves.
 
 # Venue & Equipments
@@ -15,10 +15,10 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 ## Dining Room on the 1st Floor
 
 - Main space to work.
-- Availabe around the clock.
+- Available around the clock.
     - Until 30 minutes before breakfast and dinner
     - Do not leave your PC nor books when you don't use the room.
-- Some power cables available.
+- Some power cables are available.
 - You can connect your PC to a large TV in the room.
     - A VGA cable is available.
     - A HDMI cable is brought by organizers.
