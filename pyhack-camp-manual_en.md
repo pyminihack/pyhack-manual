@@ -3,7 +3,7 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 # Overview
 
 - Instructions for Pyhack camp we hold twice in a year
-- We have pension all to ourselves
+- We usually have the pension all to ourselves.
 
 # Venue & Equipments
 
