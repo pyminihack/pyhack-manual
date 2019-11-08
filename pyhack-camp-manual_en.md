@@ -30,7 +30,7 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 
 ## Room Allocation
 
-- You have to write your name on a specified spread sheet later by yourselves.
+- You have to write your name on a specified spread sheet later by yourself.
     - In an instruction time at the venue, allocation is to be optimized.
 - Keep your things in your room.
 
@@ -78,7 +78,7 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 
 - 8:00, Breakfast
 - ca. 10:30, Checkout (payment)
-- Leave as you like.
+- Leave as you like after checkout.
 - ca. 12:30, Lunch (optional, with extra fee)
 - ca. 14:00, Leave the pension no later than this time.
 
@@ -116,7 +116,7 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 - You may eat snacks freely. Organizers will buy and bring some to the pension.
 - The pension will provide coffee for free. If running out of coffee, you can ask them and they will refill asap.
 - English tea and Japanese tea are also available.
-- You should use a coffee cup or a glass at least half a day.
+- You should use 1 coffee cup or 1 glass for at least half a day.
 - You may drink alcohol freely at dinner and until next morning. Organizers will buy and bring some to the pension.
 - You may drink draft beer freely from barrels organizers will have bought, in the time frame when you may drink alcohol as stated above.
 - You may drink delicious water (tap water but good) freely from taps by the door of the dining room (entrance hall side).
