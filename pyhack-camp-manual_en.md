@@ -1,14 +1,14 @@
 # Overview
 
 - Instructions for Pyhack camp we hold twice in a year
-- Assumption: to have the pension all to ourselves
+- We have pension all to ourselves
 
 # Venue & Equipments
 
 ## Internet
 
-- The pension uses B Flet's Hikari.
-- WiFi (Password to be notified at the venue)
+- The pension has B Flet's Hikari internet.
+- WiFi is available (Password to be notified at the venue)
 
 ## Dining Room on the 1st Floor
 
@@ -17,8 +17,8 @@
     - Until 30 minutes before breakfast and dinner
     - Do not leave your PC nor books when you don't use the room.
 - Some power cables available.
-- You can connet your PC to a large TV in the room.
-    - 1 VGA cable is equipped.
+- You can connect your PC to a large TV in the room.
+    - A VGA cable is available.
     - A HDMI cable is brought by organizers.
     - You may use it for presentation.
 - You may smoke in the room but modestly at the door or by the entrance hall.
@@ -60,14 +60,14 @@
 ## Day 1
 
 - ca. 15:00, Arrival & instruction
-- 19:00, Dinner (TBC)
+- ~19:00, Dinner
 - ca. 19:30, Self-introduction
 
 ## Day 2 & Middle Day
 
 - 8:00, Breakfast
 - ca. 12:30, Lunch (optional, with extra fee)
-- 19:00, Dinner (TBC)
+- ~19:00, Dinner
 
 ## Last Day
 
@@ -94,9 +94,9 @@
 
 # Arrival by Car
 
-- 6 cars can be parked at the pension. You may come by your car and motorbike.
+- 6 cars can be parked at the pension. You may come by your car or motorbike.
 - Leave your car key on the counter in the dining room when you park your car in the parking area.
-- Pension staffs would move your car if necessary.
+- Pension staffs will move your car if necessary.
 - Your car has to be equipped for snowy roads in winter.
 
 # Meals
