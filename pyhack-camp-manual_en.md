@@ -1,7 +1,7 @@
 This is an English translation of [pyhack合宿マニュアル](https://gist.github.com/terapyon/df4726c1390979b052f05232199acd64) by [terapyon](https://github.com/terapyon).
 
 - Translated by [ytknzw](https://github.com/ytknzw).
-- Reviewed by [ojii](https://github.com/ojii), [terapyon](https://github.com/terapyon).
+- Reviewed by [ojii](https://github.com/ojii).
 
 # Overview
 
