@@ -77,10 +77,10 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 ## Last Day
 
 - 8:00, Breakfast
-- ca. 10:30, Checkout
-- Leave as you like
+- ca. 10:30, Checkout (payment)
+- Leave as you like.
 - ca. 12:30, Lunch (optional, with extra fee)
-- ca. 14:00, Leave the pension no later than this time
+- ca. 14:00, Leave the pension no later than this time.
 
 # Pick-up & Drop-off
 
