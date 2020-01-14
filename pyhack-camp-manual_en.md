@@ -33,6 +33,7 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 - You have to write your name on a specified spread sheet later by yourself.
     - In an instruction time at the venue, allocation is to be optimized.
 - Keep your things in your room.
+- Do not leave your PC and electronic devices on the floor in the rooms at the 2nd floor. In winter, underfloor heating is running there.
 
 ## WC
 
