@@ -113,7 +113,7 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 	- For 500 yen (one-way) as of January 2020 (small coins preferred)
 
 - From the Venue
-	- Take a Ueda Bus to Ueda at the Sugadairakogen Davos bus station, get off at the Ueda station ('上田駅', ca. 50 minutes).
+	- Take a Ueda Bus ('上田バス') to Ueda ('上田') at the Sugadairakogen Davos bus station, get off at the Ueda station ('上田駅', ca. 50 minutes).
 	- For 500 yen (one-way) as of January 2020 (you can buy bus tickets at a souvenir shop by the bus station.)
 
 ### Pick-up & Drop-off
