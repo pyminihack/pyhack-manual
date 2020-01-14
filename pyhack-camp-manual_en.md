@@ -82,22 +82,56 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 - ca. 12:30, Lunch (optional, with extra fee)
 - ca. 14:00, Leave the pension no later than this time.
 
-# Pick-up & Drop-off
+# Transport
 
-## Pick-up
+## Public Transport
 
-- Pick-up point: Sugadairakogen Davos bus station (ca. 50 minutes from JR Ueda station by bus for 500 yen (one-way) as of January 2018; small coins preferred)
+### Shinkansen
+
+- To the Venue
+	- Get off at Ueda station on Hokuriku Shinkansen.
+		- Trains in time for a bus at 13:00 on Day 1 (Friday) are listed at the bottom of the 'member' sheet.
+	- For 6260 yen (one-way) as of January 2020 (non-reserved sheet from Tokyo station)
+
+- From the Venue
+	- Get on at Ueda station on Hokuriku Shinkansen.
+		- Many members take a train after 14:00 on the last day.
+	- For 6260 yen (one-way) as of January 2020 (non-reserved sheet to Tokyo station)
+
+- [Ekinet (JR-East's online reservation service)](https://www.eki-net.com)
+	- Japanese version is recommended to use if you read Japanese or have someone who reads the language and can help you. The info below is about the Japanese version.
+	- You can reserve tickets of Shinkansen under JR-East's operation at the web site (limited express and base fare tickets too).
+	- You have to receive physical paper tickets before you get on the train (as of January 2020).
+	- Some trains can be reserved at a discounted price (10-35% off) called Ekinet Tokudane ('えきねっとトクだ値').
+	- If you reserved your ticket as Ekinet Tokudane and it hasn't been received yet, you can change the reservation to any train within 3 months from the day of the initial reservation without any handling fee as many times as you want.
+
+### Local Bus
+
+- To the Venue
+	- Take a Ueda Bus to Sugadairakogen at the bus station No 3 by [the Oshiro exit ('お城口') of Ueda station](https://www.jreast.co.jp/e/stations/e203.html), get off at the Sugadairakogen Davos bus station (ca. 50 minutes).
+	- For 500 yen (one-way) as of January 2020 (small coins preferred)
+
+- From the Venue
+	- Take a Ueda Bus to Ueda at the Sugadairakogen Davos bus station, get off at the Ueda station (ca. 50 minutes).
+	- For 500 yen (one-way) as of January 2020 (you can buy bus tickets at a souvenir shop by the bus station.)
+
+### Pick-up & Drop-off
+
+#### Pick-up
+
+- Pick-up point: Sugadairakogen Davos bus station
 - ETA of bus and number of people to be shared with the pension by an organizer, in advance (ca. 3 days before)
 - Final confirmation to the pension to be made over the phone or via an organizer at Ueda station on the day
 - Some people would have to wait for the 2nd pick-up at the bus station when there are too many people to ride in pick-up cars at one time.
+- If you take a bus at Ueda station other than one at 13:00 on Day 1 (Friday), contact an organizer via Skype as soon as you get on the bus.
 
-## Drop-off
+#### Drop-off
 
-- Drop-off point: Sugadairakogen Davos bus station (ca. 50 minutes to JR Ueda station by bus for 500 yen (one-way) as of January 2018; you can buy bus tickets at a souvenir shop by the bus station.)
+- Drop-off point: Sugadairakogen Davos bus station
 - An organizer will coordinate deperture times for the bus station around dinner time on the day before.
 - Some people would have to change departure times they wish when there are too many people to ride in drop-off cars at one time.
 
-# Arrival by Car
+## Arrival by Car
 
 - 6 cars can be parked at the pension. You may come by your car or motorbike.
 - Leave your car key on the counter in the dining room when you park your car in the parking area.
