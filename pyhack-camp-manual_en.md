@@ -104,7 +104,7 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 - [Ekinet ('えきねっと', JR-East's online reservation service)](https://www.eki-net.com)
 	- Japanese version is recommended to use if you read Japanese or have someone who reads the language and can help you. The info below is about the Japanese version.
 	- You can reserve tickets of Shinkansen under JR-East's operation at the web site (limited express and base fare tickets too).
-	- You have to receive physical paper tickets before you get on the train (as of January 2020).
+	- You don't have to receive physical paper tickets and can use SUICA and PASMO as tickets (registration required in advance; as of January 2022).
 	- Some trains can be reserved at discounted prices (10-35% off) called Ekinet Tokudane ('えきねっとトクだ値').
 	- If you reserved your ticket as Ekinet Tokudane and it hasn't been received yet, you can change the reservation to any train within 3 months from the day of the initial reservation without any handling fee as many times as you want.
 
