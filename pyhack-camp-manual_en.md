@@ -38,7 +38,9 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 ## WC
 
 - On the 1st floor by stairs.
+- All Western-style seats.
 - Men: Left
+	- Use new one in the left of the two.
 - Women: Right
 
 ## Baths
