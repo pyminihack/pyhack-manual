@@ -118,6 +118,10 @@ This is an English translation of [pyhack合宿マニュアル](https://gist.git
 	- Take a Ueda Bus ('上田バス') to Ueda ('上田') at the Sugadairakogen Davos bus station, get off at the Ueda station ('上田駅', ca. 50 minutes).
 	- For 500 yen (one-way) as of January 2020 (you can buy bus tickets at a souvenir shop by the bus station.)
 
+- [Ticket QR](http://www.uedabus.co.jp/QR.html) (Japanese)
+	- You can pay fees without cash (registration required in advance).
+	- You have to install a designated smartphone app and scan your QR code when you ride and get off a bus.
+
 ### Pick-up & Drop-off
 
 #### Pick-up
