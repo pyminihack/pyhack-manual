@@ -1,4 +1,4 @@
-This is an English translation of [pyhack合宿マニュアル](https://github.com/pyminihack/pyhack-manual) by [terapyon](https://github.com/terapyon).
+This is an English translation of [pyhack 合宿マニュアル](https://github.com/pyminihack/pyhack-manual/blob/main/camp-manual-ja.md) by [terapyon](https://github.com/terapyon).
 
 - Translated by [ytknzw](https://github.com/ytknzw).
 - Reviewed by [ojii](https://github.com/ojii), [terapyon](https://github.com/terapyon).
@@ -19,19 +19,19 @@ This is an English translation of [pyhack合宿マニュアル](https://github.c
 
 - Main space to work.
 - Available around the clock.
-    - Until 30 minutes before breakfast and dinner
-    - Do not leave your PC nor books when you don't use the room.
+  - Until 30 minutes before breakfast and dinner
+  - Do not leave your PC nor books when you don't use the room.
 - Some power cables are available.
 - You can connect your PC to a large TV in the room.
-    - A VGA cable is available.
-    - A HDMI cable is brought by organizers.
-    - You may use it for presentation.
+  - A VGA cable is available.
+  - A HDMI cable is brought by organizers.
+  - You may use it for presentation.
 - You may smoke in the room but modestly at the door or by the entrance hall.
 
 ## Room Allocation
 
 - You have to write your name on a specified spread sheet later by yourself.
-    - In an instruction time at the venue, allocation is to be optimized.
+  - In an instruction time at the venue, allocation is to be optimized.
 - Keep your things in your room.
 - Do not leave your PC and electronic devices on the floor in the rooms at the 2nd floor. In winter, underfloor heating is running there.
 
@@ -40,7 +40,7 @@ This is an English translation of [pyhack合宿マニュアル](https://github.c
 - On the 1st floor by stairs.
 - All Western-style seats.
 - Men: Left
-	- Use new one in the left of the two.
+  - Use new one in the left of the two.
 - Women: Right
 
 ## Baths
@@ -55,13 +55,13 @@ This is an English translation of [pyhack合宿マニュアル](https://github.c
 ## Skiing & Snowboarding
 
 - You can rent the following (as you need):
-    - Wear
-    - Accessaries (gloves and goggles)
-    - Boots
-    - Skis, poles, snowboards
+  - Wear
+  - Accessaries (gloves and goggles)
+  - Boots
+  - Skis, poles, snowboards
 - If you want to rent any, fill in a form by the evening on the day before.
 - Lift tickets discounts
-    - To be confirmed with the pension in the morning on the day
+  - To be confirmed with the pension in the morning on the day
 
 # Time Schedule
 
@@ -92,35 +92,39 @@ This is an English translation of [pyhack合宿マニュアル](https://github.c
 ### Shinkansen
 
 - To the Venue
-	- Get off at Ueda station on Hokuriku Shinkansen.
-		- Trains in time for a bus at 13:00 on Day 1 (Friday) are listed at the bottom of the 'member' sheet.
-	- For 6260 yen (one-way) as of January 2020 (non-reserved sheet from Tokyo station)
+
+  - Get off at Ueda station on Hokuriku Shinkansen.
+    - Trains in time for a bus at 13:00 on Day 1 (Friday) are listed at the bottom of the 'member' sheet.
+  - For 6260 yen (one-way) as of January 2020 (non-reserved sheet from Tokyo station)
 
 - From the Venue
-	- Get on at Ueda station on Hokuriku Shinkansen.
-		- Many members take a train after 14:00 on the last day.
-	- For 6260 yen (one-way) as of January 2020 (non-reserved sheet to Tokyo station)
+
+  - Get on at Ueda station on Hokuriku Shinkansen.
+    - Many members take a train after 14:00 on the last day.
+  - For 6260 yen (one-way) as of January 2020 (non-reserved sheet to Tokyo station)
 
 - [Ekinet ('えきねっと', JR-East's online reservation service)](https://www.eki-net.com)
-	- Japanese version is recommended to use if you read Japanese or have someone who reads the language and can help you. The info below is about the Japanese version.
-	- You can reserve tickets of Shinkansen under JR-East's operation at the web site (limited express and base fare tickets too).
-	- You don't have to receive physical paper tickets and can use SUICA and PASMO as tickets (registration required in advance; as of January 2022).
-	- Some trains can be reserved at discounted prices (10-35% off) called Ekinet Tokudane ('えきねっとトクだ値').
-	- If you reserved your ticket as Ekinet Tokudane and it hasn't been received yet, you can change the reservation to any train within 3 months from the day of the initial reservation without any handling fee as many times as you want.
+  - Japanese version is recommended to use if you read Japanese or have someone who reads the language and can help you. The info below is about the Japanese version.
+  - You can reserve tickets of Shinkansen under JR-East's operation at the web site (limited express and base fare tickets too).
+  - You don't have to receive physical paper tickets and can use SUICA and PASMO as tickets (registration required in advance; as of January 2022).
+  - Some trains can be reserved at discounted prices (10-35% off) called Ekinet Tokudane ('えきねっとトクだ値').
+  - If you reserved your ticket as Ekinet Tokudane and it hasn't been received yet, you can change the reservation to any train within 3 months from the day of the initial reservation without any handling fee as many times as you want.
 
 ### Local Bus
 
 - To the Venue
-	- Take a Ueda Bus ('上田バス') to Sugadairakogen ('菅平高原') at the bus station No 3 by [the Oshiro exit ('お城口') of Ueda station](https://www.jreast.co.jp/e/stations/e203.html), get off at the Sugadairakogen Davos ('菅平高原ダボス') bus station (ca. 50 minutes).
-	- For 500 yen (one-way) as of January 2020 (small coins preferred)
+
+  - Take a Ueda Bus ('上田バス') to Sugadairakogen ('菅平高原') at the bus station No 3 by [the Oshiro exit ('お城口') of Ueda station](https://www.jreast.co.jp/e/stations/e203.html), get off at the Sugadairakogen Davos ('菅平高原ダボス') bus station (ca. 50 minutes).
+  - For 500 yen (one-way) as of January 2020 (small coins preferred)
 
 - From the Venue
-	- Take a Ueda Bus ('上田バス') to Ueda ('上田') at the Sugadairakogen Davos bus station, get off at the Ueda station ('上田駅', ca. 50 minutes).
-	- For 500 yen (one-way) as of January 2020 (you can buy bus tickets at a souvenir shop by the bus station.)
+
+  - Take a Ueda Bus ('上田バス') to Ueda ('上田') at the Sugadairakogen Davos bus station, get off at the Ueda station ('上田駅', ca. 50 minutes).
+  - For 500 yen (one-way) as of January 2020 (you can buy bus tickets at a souvenir shop by the bus station.)
 
 - [Ticket QR](http://www.uedabus.co.jp/QR.html) (Japanese)
-	- You can pay fees without cash (registration required in advance).
-	- You have to install a designated smartphone app and scan your QR code when you ride and get off a bus.
+  - You can pay fees without cash (registration required in advance).
+  - You have to install a designated smartphone app and scan your QR code when you ride and get off a bus.
 
 ### Pick-up & Drop-off
 
@@ -167,7 +171,7 @@ This is an English translation of [pyhack合宿マニュアル](https://github.c
 
 - Lunch: Inform an organizer by the night on the day before or by breakfast on the day
 - BBQ: One dinner will be changed to BBQ in summer. To be decided based on weather and headcount.
-	- For BBQ, dinner time will be moved up (to ca. 17:30).
+  - For BBQ, dinner time will be moved up (to ca. 17:30).
 - If you want a low-sugar diet, inform an organizer by one month before (limited number).
 
 # Brief Recap of Things to be Decided at the Venue
